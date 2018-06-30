@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="exit_button">100dp</dimen>
+    <dimen name="settings_button">100dp</dimen>
+    <dimen name="takequiz_button">100dp</dimen>
+</resources>

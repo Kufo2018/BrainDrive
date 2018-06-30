@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brain Drive</string>
+    <string name="second_activity_name">Main2Activity</string>
+    <string name="take_quiz">nimm Quiz</string>
+    <string name="settings">die Einstellungen</string>
+    <string name="exit">Ausfahrt</string>
+    <string name="brain_drive">Brain Drive</string>
+    <string name="rubikscube">rubikscube</string>
+    <string name="instructions">Anleitung: Lesen Sie sorgfältig jede Frage und beantworten Sie sie angemessen</string>
+    <string name="welcome">Willkommen beim BrainDrive Test</string>
+    <string name="question_1">"Frage 1; Welche zwei davon sind eine Struktur im Gehirn? "</string>
+    <string name="question_1_a">"Großhirn "</string>
+    <string name="question_1_b">"Mandeln "</string>
+    <string name="question_1_c">"Kleinhirn "</string>
+    <string name="question_1_d">"Thymusdrüse "</string>
+    <string name="question_2_answer_hint">"Geben Sie Ihre Antwort hier ein "</string>
+    <string name="question_2_answer">"Frage 2; Wie viele Hemisphären ist das Gehirn unterteilt? "</string>
+    <string name="question_3">"Frage 3; Der Teil des Gehirns, der für die Koordination der Reflexe verantwortlich ist, ist der? "</string>
+    <string name="question_3_a">"Der Hirnstamm "</string>
+    <string name="question_3_b">"Der Hypothalamus "</string>
+    <string name="question_3_c">"Die Basalganglien "</string>
+    <string name="question_3_d">"Der zerebrale Cortex "</string>
+    <string name="question_4">"Frage 4; Das Rückenmark ist mit dem Gehirn verbunden. "</string>
+    <string name="question_4_hint">"Richtig oder falsch? "</string>
+    <string name="question_5">"Frage 5; Welche der folgenden Aussagen treffen zu? "</string>
+    <string name="question_5_a">"Das Kleinhirn befindet sich im hinteren Teil des Gehirns unterhalb des Großhirns "</string>
+    <string name="question_5_b">"Der Teil des Gehirns, der den Hunger steuert, ist die Medulla Oblongata "</string>
+    <string name="question_5_c">"Hypothalamus "</string>
+    <string name="question_5_d">"Die Großhirnrinde ist in vier Lappen unterteilt "</string>
+    <string name="submit">"Antworten veröffentlichen "</string>
+</resources>

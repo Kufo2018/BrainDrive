@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BrainDrive</string>
+    <string name="second_activity_name">Questions</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="brain_drive">The Brain Drive Quiz</string>
+    <string name="rubikscube">braindrivestockimage</string>
+    <string name="instructions">Instructions: Carefully read each question and answer appropriately</string>
+    <string name="welcome">Welcome to the BrainDrive Test</string>
+    <string name="question_1">Question 1; Which two of these are structures in the brain?</string>
+    <string name="question_1_a">Cerebrum</string>
+    <string name="question_1_b">Tonsils</string>
+    <string name="question_1_c">Cerebellum</string>
+    <string name="question_1_d">Thymus</string>
+    <string name="question_2_answer_hint">Type your answer here</string>
+    <string name="question_2_answer">Question 2; How many hemispheres is the brain divided into?</string>
+    <string name="question_3">Question 3; The portion of the brain responsible for coordinating reflexes is the </string>
+    <string name="question_3_a">The Brain Stem</string>
+    <string name="question_3_b">The Hypothalamus</string>
+    <string name="question_3_c">The Basal Ganglia</string>
+    <string name="question_3_d">The Cerebral Cortex</string>
+    <string name="question_4">Question 4; The spinal cord is connected to the brain.</string>
+    <string name="question_4_hint">True or False?</string>
+    <string name="question_5">Question 5; Which two of the following statements are true?</string>
+    <string name="question_5_a">The cerebellum is at the back of the brain, below the cerebrum</string>
+    <string name="question_5_b">The part of the brain which controls hunger is the Medulla Oblongata</string>
+    <string name="question_5_c">Hypothalamus is a section of the brain not concerned with hormone production</string>
+    <string name="question_5_d">The cerebral cortex is divided into four lobes </string>
+    <string name="submit">Submit Answers</string>
+    <string name="home">Go Home</string>
+</resources>
