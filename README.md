@@ -16,3 +16,5 @@ Questions:
 3. The portion of the brain responsible for coordinating reflexes is the [RadioButton]
 4. The spinal cord is connected to the brain. True or False? [EditText]
 5. Which two of the following statements are true? [CheckBox]
+
+![Alt text](/BrainDrive/app/Screenshot.png?raw=true "Optional Title")
