@@ -1,4 +1,4 @@
-# Quiz-App (Udacity Android Nanodegree)
+# Quiz-App (Google Africa Scholarship Challenge)
 
 ALC 7DaysofCodeChallenge- 7 Days of Code Challenge is an individual project/program completion task for the ALC learners. The goal is to: 
 a)Determine your overall progress in the ALC program, and identify the top 150 learners from this track.
