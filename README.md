@@ -18,3 +18,5 @@ Questions:
 5. Which two of the following statements are true? [CheckBox]
 
 ![Alt text](https://github.com/Kufo2018/BrainDrive/blob/master/app/Screenshot1.png?raw=true "Optional Title")
+
+![Alt text](https://github.com/Kufo2018/BrainDrive/blob/master/app/Screenshot2.png?raw=true "Optional Title")
